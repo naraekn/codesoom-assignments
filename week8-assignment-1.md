@@ -1,1 +1,1 @@
-<img src = "./images/week8-assignment-1.png" width="1100px">
+<img src = "./images/week8-assignment-1.png" width="1300px">
